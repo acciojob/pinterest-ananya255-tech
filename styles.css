@@ -10,9 +10,19 @@ img{
 	object-fit:cover;
 }
 button{
+	width:100px;
 	border:none;
 	padding:5px;
 	background-color:red;
 	color:white;
 	border-radius:5px;
+	
+}
+
+.sub{
+	display:flex;
+	flex-direction:column;
+	text-align:center;
+	align-items:center;
+	
 }
